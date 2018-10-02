@@ -339,3 +339,9 @@ Place: Noida,India<br/>
 About: Btech student from JIIT<br/>
 Programming Languages: C,C++,python3<br/>
 email: ranjan.kushwaha456@gmail.com<br/>
+
+Name: [Deise Kelly](https://github.com/AtreydesKS)
+Place: São Paulo/Brazil
+About: Computer Science Student
+Programming Language: C# , C++, HTML, CSS, PYTHON
+Email: deisekellydasilva@gmail.com
